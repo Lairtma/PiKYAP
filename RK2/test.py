@@ -1,5 +1,5 @@
 import unittest
-from pk1 import *
+from main import *
 
 
 class Rk2_test(unittest.TestCase):
