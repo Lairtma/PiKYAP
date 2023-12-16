@@ -2,7 +2,7 @@ import unittest
 from main import *
 
 
-class Rk2_test(unittest.TestCase):
+class RK2_test(unittest.TestCase):
     Langs = [Lang(1, 'C++', 1985, 1),
              Lang(2, 'Python', 1991, 2),
              Lang(3, 'Java', 1995, 3),
